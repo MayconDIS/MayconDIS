@@ -11,18 +11,18 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
 Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilidade, qualidades que aplico tanto nos estudos quanto na vida profissional.
 
 <p align="left">
-    <a href="https://github.com/MayconDIS?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MayconDIS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/MayconDIS?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/MayconDIS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/MayconDIS?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MayconDIS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
@@ -31,14 +31,6 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
@@ -68,5 +60,4 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
