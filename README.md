@@ -47,14 +47,6 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<p><a href="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg#/media/File:C_Programming_Language.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="File:C Programming Language.svg" height="420" width="380"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:ElodinKaldwin&amp;action=edit&amp;redlink=1" class="new" title="User:ElodinKaldwin (page does not exist)">ElodinKaldwin</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=95676775">Link</a></p>" 
-/>
 
 <br/>
 <br/>
@@ -67,14 +59,14 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
