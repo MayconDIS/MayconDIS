@@ -53,7 +53,7 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[[File:C Programming Language.svg|thumb|C Programming Language|alt=File:C Programming Language.svg]]" 
+    src="<p><a href="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg#/media/File:C_Programming_Language.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="File:C Programming Language.svg" height="420" width="380"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:ElodinKaldwin&amp;action=edit&amp;redlink=1" class="new" title="User:ElodinKaldwin (page does not exist)">ElodinKaldwin</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=95676775">Link</a></p>" 
 />
 
 <br/>
