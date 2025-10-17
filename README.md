@@ -8,8 +8,6 @@
 
 **`Estudante de TI`**
 
-#
-
 Sou estudante de CST em Análise e Desenvolvimento de Sistemas e estou em constante busca por novos conhecimentos, com foco no aprendizado contínuo. Atualmente, estou aprendendo lógica de programação em Python e C, além de explorar áreas como Inteligência Artificial, Engenharia de Software Ágil e outras disciplinas que ampliam minha visão sobre o mundo da tecnologia.
 
 Tenho grande interesse em Blockchain e NFT, e me considero um entusiasta da tecnologia, sempre disposto a compreender tendências e inovações.
@@ -46,9 +44,18 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+/>
+</br>
+
 #
+
 ### 📊 Estatísticas
 <p>
   <img 
