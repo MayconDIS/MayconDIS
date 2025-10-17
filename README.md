@@ -4,7 +4,9 @@
   </a>
 </div>
 
-👨 Maycon Douglas
+---
+
+👨 **Maycon Douglas**
 
 **`Estudante de TI`**
 
@@ -14,25 +16,26 @@ Tenho grande interesse em Blockchain e NFT, e me considero um entusiasta da tecn
 
 Tenho objetivos claros quanto à minha formação acadêmica e profissional, com interesse em realizar um MBA em Inteligência Artificial e Data Science Aplicadas a Negócios, visando unir tecnologia e estratégia para gerar impacto real.
 
+<br>
 
 <p align="left">
-    <a href="https://github.com/MayconDIS?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MayconDIS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/MayconDIS?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MayconDIS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+  <a href="https://github.com/MayconDIS?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/MayconDIS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/MayconDIS?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/MayconDIS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
 </p>
 
-#
+---
 
 ### 🤖 Languages and Technologies
 
@@ -52,29 +55,39 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
-</br>
 
-#
+<br clear="left"/>
+<br>
+
+---
 
 ### 📊 Statistics
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    align="left"
+    height="180"
+    style="padding-right: 15px;"
+    src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="GitHub Stats"
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  
+  <img 
+    align="left"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Top Languages"
   />
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake.svg">
-</picture>
+<br clear="left"/>
+<br>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
