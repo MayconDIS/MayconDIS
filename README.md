@@ -34,7 +34,7 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
 
 #
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -56,7 +56,7 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
 
 #
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p>
   <img 
     align="left" 
@@ -72,7 +72,6 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
