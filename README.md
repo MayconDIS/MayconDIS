@@ -4,7 +4,7 @@
   </a>
 </div>
 
-#👨🏻‍💻 Maycon Douglas
+👨 Maycon Douglas
 
 **`Estudante de TI`**
 
@@ -16,7 +16,6 @@ Tenho grande interesse em Blockchain e NFT, e me considero um entusiasta da tecn
 
 Tenho objetivos claros quanto à minha formação acadêmica e profissional, com interesse em realizar um MBA em Inteligência Artificial e Data Science Aplicadas a Negócios, visando unir tecnologia e estratégia para gerar impacto real.
 
-Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilidade, qualidades que aplico tanto nos estudos quanto na vida profissional.
 
 <p align="left">
     <a href="https://github.com/MayconDIS?tab=followers">
@@ -66,3 +65,10 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake.svg">
+</picture>
