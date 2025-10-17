@@ -3,9 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&width=500&lines=Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
-# 👨🏻‍💻 Maycon Douglas
+
+#👨🏻‍💻 Maycon Douglas
 
 **`Estudante de TI`**
+
+#
 
 Sou estudante de CST em Análise e Desenvolvimento de Sistemas e estou em constante busca por novos conhecimentos, com foco no aprendizado contínuo. Atualmente, estou aprendendo lógica de programação em Python e C, além de explorar áreas como Inteligência Artificial, Engenharia de Software Ágil e outras disciplinas que ampliam minha visão sobre o mundo da tecnologia.
 
@@ -32,7 +35,7 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
     </a>
 </p>
 
----
+#
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -44,12 +47,10 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
-
+#
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -58,7 +59,6 @@ Meus principais pontos fortes são a resiliência e, sobretudo, a responsabilida
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
