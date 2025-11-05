@@ -6,7 +6,7 @@
 
 ---
 
-👨 **Maycon Douglas**
+**Maycon Douglas**
 
 **`Estudante de TI`**
 
