@@ -14,26 +14,7 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
 
 <br>
 
-<p align="left">
-  <a href="https://github.com/MayconDIS?tab=followers">
-    <img alt="Seguidores" 
-         title="Me siga no GitHub" 
-         src="https://img.shields.io/github/followers/MayconDIS?style=for-the-badge&logo=github&label=Seguidores&labelColor=7B1FA2&color=9B30FF&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/MayconDIS?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" 
-         title="Total de estrelas GitHub" 
-         src="https://img.shields.io/github/stars/MayconDIS?style=for-the-badge&label=%E2%AD%90%20Estrelas&labelColor=FFA500&color=FFD700"
-    />
-  </a>
-  <a href="https://mdcodeprogramming@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maycondis/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![Seguidores](https://img.shields.io/github/followers/MayconDIS?style=for-the-badge&logo=github&label=Seguidores&labelColor=7B1FA2&color=9B30FF&logoColor=white)](https://github.com/MayconDIS?tab=followers) [![Total de estrelas](https://img.shields.io/github/stars/MayconDIS?style=for-the-badge&label=%E2%AD%90%20Estrelas&labelColor=FFA500&color=FFD700)](https://github.com/MayconDIS?tab=repositories&sort=stargazers) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdcodeprogramming@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycondis/)
 
 ---
 
