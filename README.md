@@ -27,7 +27,7 @@ Tenho objetivos claros quanto à minha formação acadêmica e profissional, com
          src="https://img.shields.io/github/stars/MayconDIS?style=for-the-badge&label=%E2%AD%90%20Estrelas&labelColor=FFA500&color=FFD700"
     />
   </a>
-  <a href="mailto:mdcodeprogramming@gmail.com">
+  <a href="https://mdcodeprogramming@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maycondis/">
