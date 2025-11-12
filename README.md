@@ -83,7 +83,7 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     align="left"
     height="180"
     style="padding-right: 15px;"
-    src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&locale=en"
     alt="GitHub Stats"
   />
   <img 
