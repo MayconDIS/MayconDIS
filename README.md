@@ -1,9 +1,3 @@
-<div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&width=500&lines=Welcome+to+my+profile!" alt="Typing SVG" />
-  </a>
-</div>
-
 **`Maycon Douglas ┃ IT Student`**
 
 I'm currently studying Systems Analysis and Development, always seeking to expand my knowledge and focusing on continuous learning. My current focus is on programming logic with Python and C, while also exploring Artificial Intelligence, Agile Software Engineering, and other areas that broaden my perspective on the tech world.
@@ -14,7 +8,7 @@ I have clear academic and professional goals, including pursuing an MBA in Artif
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/MayconDIS?tab=followers">
     <img alt="Followers" 
          title="Followers" 
@@ -37,7 +31,7 @@ I have clear academic and professional goals, including pursuing an MBA in Artif
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
@@ -47,9 +41,9 @@ I have clear academic and professional goals, including pursuing an MBA in Artif
 
 ---
 
-### 🤖 Languages and Technologies
+<h3 align="center">🤖 Languages and Technologies</h3>
 
-<div align="left">
+<div align="center">
 <img 
     alt="GitHub" 
     title="GitHub"
@@ -112,10 +106,10 @@ I have clear academic and professional goals, including pursuing an MBA in Artif
 
 ---
 
-### 📊 Statistics
+<h3 align="center">📊 Statistics</h3>
 
 <div align="center">
-  
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&locale=en)](https://github.com/MayconDIS)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9)](https://github.com/MayconDIS)
 
