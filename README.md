@@ -39,9 +39,9 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Audiovisual Equipment Management System](https://github.com/MayconDIS/SEU-LINK-AQUI)** | Developed a modular Python application for managing equipment reservations. It features a smart allocation algorithm, inline editing, data standardization, automated PDF report generation, and technical user manuals. | `Python` `PDF Reports` `Algorithms` |
-| **[Collaborative Academic System (PIM II)](https://github.com/MayconDIS/SEU-LINK-AQUI)** | Conceptualized a student-focused collaborative system. The project scope involved planning integrations with Artificial Intelligence to optimize the user experience. | `System Design` `AI Integration` |
-| **[Educational Platform for NGOs (PIM)](https://github.com/MayconDIS/SEU-LINK-AQUI)** | Planned a Python-based educational platform, applying cybersecurity concepts and ensuring strict system compliance with the General Data Protection Law (LGPD). | `Python` `Cybersecurity` `LGPD Compliance` |
+| **[Audiovisual Equipment Management System](https://github.com/MayconDIS/Reserva_Datashow)** | Developed a modular Python application for managing equipment reservations. It features a smart allocation algorithm, inline editing, data standardization, automated PDF report generation, and technical user manuals. | `Python` `PDF Reports` `Algorithms` |
+| **[Collaborative Academic System (PIM II)](https://github.com/MayconDIS/PIM_II)** | Conceptualized a student-focused collaborative system. The project scope involved planning integrations with Artificial Intelligence to optimize the user experience. | `System Design` `AI Integration` |
+| **[Educational Platform for NGOs (PIM)](https://github.com/MayconDIS/PIM_I)** | Planned a Python-based educational platform, applying cybersecurity concepts and ensuring strict system compliance with the General Data Protection Law (LGPD). | `Python` `Cybersecurity` `LGPD Compliance` |
 
 ---
 
