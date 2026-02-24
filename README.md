@@ -6,11 +6,11 @@
 
 **`Maycon Douglas ┃ IT Student`**
 
-I am a student of CST in Systems Analysis and Development and I am constantly seeking new knowledge, focusing on continuous learning. Currently, I am learning programming logic in Python and C, as well as exploring areas like Artificial Intelligence, Agile Software Engineering, and other disciplines that broaden my vision of the technology world.
+I'm currently studying Systems Analysis and Development, always seeking to expand my knowledge and focusing on continuous learning. My current focus is on programming logic with Python and C, while also exploring Artificial Intelligence, Agile Software Engineering, and other areas that broaden my perspective on the tech world.
 
-I have a great interest in Blockchain and NFT, and I consider myself a technology enthusiast, always willing to understand trends and innovations.
+As a tech enthusiast with a strong interest in Blockchain and NFTs, I'm always eager to understand new trends and innovations.
 
-I have clear academic and professional goals, with an interest in pursuing an MBA in Artificial Intelligence and Data Science Applied to Business, aiming to unite technology and strategy to generate real impact.
+I have clear academic and professional goals, including pursuing an MBA in Artificial Intelligence and Data Science Applied to Business, aiming to bridge the gap between technology and strategic business impact.
 
 <br>
 
@@ -37,10 +37,20 @@ I have clear academic and professional goals, with an interest in pursuing an MB
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Audiovisual Equipment Management System](https://github.com/MayconDIS/SEU-LINK-AQUI)** | Development of a modular Python application for managing equipment reservations. It features a smart allocation algorithm, inline editing, automated PDF report generation, and technical user manuals. | `Python` `PDF Reports` `Algorithms` |
+| **[Collaborative Academic System (PIM II)](https://github.com/MayconDIS/SEU-LINK-AQUI)** | Conceptualization of a student-focused collaborative system. The scope included planning integrations with Artificial Intelligence features to optimize the user experience. | `System Design` `AI Integration` |
+| **[Educational Platform for NGOs (PIM)](https://github.com/MayconDIS/SEU-LINK-AQUI)** | Planning of a Python-based educational platform, encompassing the application of cybersecurity concepts and strict compliance with data protection regulations (LGPD). | `Python` `Cybersecurity` `LGPD Compliance` |
+
+---
+
 ### 🤖 Languages and Technologies
 
+<div align="left">
 <img 
-    align="left" 
     alt="GitHub" 
     title="GitHub"
     width="30px" 
@@ -48,7 +58,6 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.simpleicons.org/github/FFFFFF" 
 />
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -56,7 +65,6 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -64,7 +72,6 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
     alt="C" 
     title="C"
     width="25px" 
@@ -72,7 +79,6 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
 <img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -80,7 +86,6 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -88,7 +93,6 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="HTML" 
     title="HTML"
     width="30px" 
@@ -96,37 +100,27 @@ I have clear academic and professional goals, with an interest in pursuing an MB
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+</div>
 
-<br clear="left"/>
 <br>
 
 ---
 
 ### 📊 Statistics
-<p>
-  <img 
-    align="left"
-    height="180"
-    style="padding-right: 15px;"
-    src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&locale=en"
-    alt="GitHub Stats"
-  />
-  <img 
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
-    alt="Top Languages"
-  />
-</p>
 
-<br clear="left"/>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&locale=en)](https://github.com/MayconDIS)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9)](https://github.com/MayconDIS)
+
+</div>
+
 <br>
 
 ---
