@@ -13,6 +13,7 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 <br>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MayconDIS&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/MayconDIS?tab=followers">
     <img alt="Followers" 
          title="Followers" 
@@ -127,21 +128,7 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 <h3 align="center">📊 Statistics & Trophies</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MayconDIS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="MayconDIS Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayconDIS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayconDIS&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
