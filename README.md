@@ -40,7 +40,7 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Bedelaria Management System](https://github.com/MayconDIS/Reserva_Datashow)** | Developed a comprehensive Python desktop application (v2.0) to optimize and automate school administration operations. Features include room reservations with smart conflict detection, staff management, shift scheduling, inventory control, and automated PDF report generation. | `Python` `CustomTkinter` `SQLite` `ReportLab` |
+| **[Bedelaria Management System](https://github.com/MayconDIS/Sistema_Bedelaria)** | Developed a comprehensive Python desktop application (v2.0) to optimize and automate school administration operations. Features include room reservations with smart conflict detection, staff management, shift scheduling, inventory control, and automated PDF report generation. | `Python` `CustomTkinter` `SQLite` `ReportLab` |
 | **[Collaborative Academic System (PIM II)](https://github.com/MayconDIS/PIM_II)** | Conceptualized a student-focused collaborative system. The project scope involved planning integrations with Artificial Intelligence to optimize the user experience. | `System Design` `AI Integration` |
 | **[Educational Platform for NGOs (PIM)](https://github.com/MayconDIS/PIM_I)** | Planned a Python-based educational platform, applying cybersecurity concepts and ensuring strict system compliance with the General Data Protection Law (LGPD). | `Python` `Cybersecurity` `LGPD Compliance` |
 
