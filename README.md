@@ -6,9 +6,9 @@
 
 **`Maycon Douglas ┃ IT Student`**
 
-I am a 3rd-semester Systems Analysis and Development student seeking my first opportunity in the tech industry as an intern or junior developer. My studies are focused on programming logic with Python and C, and I am currently expanding my knowledge in C# and Java.
+I am a 3rd-semester Systems Analysis and Development student and currently serve as the Vice-Representative for my class. I am seeking my first opportunity in the tech industry as an intern or junior developer. My academic projects and studies are deeply focused on programming logic with Python and C, and I am currently expanding my knowledge in C# and Java.
 
-I have a strong interest in data modeling, agile methodologies, and the open-source ecosystem. As an enthusiast of Artificial Intelligence and Data Science, my goal is to apply my analytical skills to solve real-world problems and contribute to innovative projects.
+I have a strong interest in data modeling, agile methodologies, and the open-source ecosystem. As an enthusiast of Artificial Intelligence, Data Science, and Blockchain technologies, my goal is to apply my analytical skills to solve real-world problems and contribute to innovative projects. Looking ahead, my objective is to further my specialization by pursuing an MBA in Artificial Intelligence and Data Science Applied to Business.
 
 <br>
 
@@ -39,7 +39,7 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Audiovisual Equipment Management System](https://github.com/MayconDIS/Reserva_Datashow)** | Developed a modular Python application for managing equipment reservations. It features a smart allocation algorithm, inline editing, data standardization, automated PDF report generation, and technical user manuals. | `Python` `PDF Reports` `Algorithms` |
+| **[Bedelaria Management System](https://github.com/MayconDIS/Reserva_Datashow)** | Developed a comprehensive Python desktop application (v2.0) to optimize and automate school administration operations. Features include room reservations with smart conflict detection, staff management, shift scheduling, inventory control, and automated PDF report generation. | `Python` `CustomTkinter` `SQLite` `ReportLab` |
 | **[Collaborative Academic System (PIM II)](https://github.com/MayconDIS/PIM_II)** | Conceptualized a student-focused collaborative system. The project scope involved planning integrations with Artificial Intelligence to optimize the user experience. | `System Design` `AI Integration` |
 | **[Educational Platform for NGOs (PIM)](https://github.com/MayconDIS/PIM_I)** | Planned a Python-based educational platform, applying cybersecurity concepts and ensuring strict system compliance with the General Data Protection Law (LGPD). | `Python` `Cybersecurity` `LGPD Compliance` |
 
@@ -124,11 +124,24 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 
 ---
 
-<h3 align="center">📊 Statistics</h3>
+<h3 align="center">📊 Statistics & Trophies</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayconDIS&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MayconDIS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="MayconDIS Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayconDIS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MayconDIS&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
