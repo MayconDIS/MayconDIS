@@ -35,7 +35,7 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 <h3 align="center">🤖 Languages and Technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,py,c,cs,html,css,js,sqlite,linux" alt="Maycon's Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,py,cs,java,js,html,css,sqlite,linux" alt="Maycon's Skills" />
 </div>
 
 <br>
@@ -52,6 +52,7 @@ I have a strong interest in data modeling, agile methodologies, and the open-sou
 
 ---
 
+<h3 align="center">🎯 Discipline</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconDIS/MayconDIS/output/github-contribution-grid-snake-dark.svg">
