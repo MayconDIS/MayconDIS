@@ -39,7 +39,7 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite,sqlserver,dotnet,git,github,windows,linux,docker" alt="Habilidades do Maycon" />
-  <img src="https://img.shields.io/badge/Antigravity-AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Antigravity AI" />
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="48" height="48" alt="Antigravity AI" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="Habilidades do Maycon" />
 </div>
 
