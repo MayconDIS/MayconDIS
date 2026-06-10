@@ -7,11 +7,11 @@
 
 **`Maycon Douglas ┃ IT Student & Aspiring Software Engineer`**
 
-I am a 4th-semester Systems Analysis and Development student and currently serve as the **Vice-Representative** for my class. I am seeking my first opportunity in the tech industry as a **Software Developer Intern** or **Junior Developer**. My academic projects and studies are deeply focused on programming logic, software design patterns, and clean architecture, applying solid practices in **Python**, **C#**, and **C**, while expanding my knowledge in **Java** and web technologies.
+I am a 4th-semester Systems Analysis and Development student and currently serve as the **Vice-Representative** for my class. I am seeking my first opportunity in the tech industry as a **Software Developer Intern** or **Junior Developer**. 
 
-I have a strong interest in software engineering, data modeling, agile methodologies, and the open-source ecosystem. As an enthusiast of Artificial Intelligence, Computer Vision, and Data Science, my goal is to apply my analytical and technical skills to solve complex problems and contribute to innovative projects. Looking ahead, my objective is to specialize by pursuing an MBA in Artificial Intelligence and Data Science Applied to Business.
+To analyze the languages and technologies I use, just check the source code in my repositories. In my projects, I prioritize the strict application of **SOLID** design principles, **Clean Code** standards, **semantic HTML/code**, and **web accessibility (WAI-ARIA/ARIA labels)**. Additionally, I run and integrate LLMs locally using tools like **Ollama** and **LM Studio**.
 
-I am highly dedicated and heavily practice *vibe coding* to quickly turn my ideas into reality and put them into practice. Aligned with the new era of Artificial Intelligence, my career and learning focus is directed toward becoming a **Software Architect**.
+I am highly dedicated and heavily practice *vibe coding* to quickly turn my ideas into reality and put them into practice. Aligned with the new era of Artificial Intelligence, my career and learning focus is directed toward becoming a **Software Architect**. In my free time, I love brainstorming and developing new project ideas from scratch as well as refactoring old codebases to apply modern software engineering patterns.
 
 <br>
 

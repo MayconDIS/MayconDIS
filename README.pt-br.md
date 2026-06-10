@@ -6,11 +6,11 @@
 
 **`Maycon Douglas ┃ Estudante de TI & Aspirante a Engenheiro de Software`**
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas e atualmente atuo como **Vice-Representante** da minha turma. Busco minha primeira oportunidade na área de tecnologia como **Estagiário de Desenvolvimento de Software** ou **Desenvolvedor Júnior**. Meus projetos acadêmicos e estudos são profundamente focados em lógica de programação, padrões de projeto de software e arquitetura limpa, aplicando práticas sólidas em **Python**, **C#** e **C**, enquanto expando meus conhecimentos em **Java** e tecnologias web.
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas e atualmente atuo como **Vice-Representante** da minha turma. Busco minha primeira oportunidade na área de tecnologia como **Estagiário de Desenvolvimento de Software** ou **Desenvolvedor Júnior**. 
 
-Tenho grande interesse em engenharia de software, modelagem de dados, metodologias ágeis e ecossistema de código aberto. Como entusiasta de Inteligência Artificial, Visão Computacional e Ciência de Dados, meu objetivo é aplicar minhas habilidades analíticas e técnicas para resolver problemas complexos e contribuir para projetos inovadores. Olhando para frente, meu objetivo é me especializar fazendo um MBA em Inteligência Artificial e Ciência de Dados Aplicadas aos Negócios.
+Para analisar de perto as linguagens e tecnologias que domino, basta conferir o código-fonte nos meus repositórios. Em meus projetos, prezo pela aplicação rigorosa das diretrizes do **SOLID**, práticas de **Clean Code**, estruturação de **código semântico** e padrões de **acessibilidade (WAI-ARIA/ARIA labels)**. Além disso, costumo rodar e integrar LLMs localmente utilizando ferramentas como **Ollama** e **LM Studio**.
 
-Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar minhas ideias do papel e colocá-las em prática de forma ágil. Alinhado com a nova era da Inteligência Artificial, meu foco de carreira e estudos está direcionado para me tornar um **Arquiteto de Software**.
+Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar minhas ideias do papel e colocá-las em prática de forma ágil. Alinhado com a nova era da Inteligência Artificial, meu foco de carreira e estudos está direcionado para me tornar um **Arquiteto de Software**. No meu tempo livre, gosto de desenvolver novas ideias de projetos do zero e refatorar códigos antigos para aplicar padrões mais avançados de engenharia de software.
 
 <br>
 
