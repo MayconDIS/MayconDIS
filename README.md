@@ -57,6 +57,12 @@ I am highly dedicated and heavily practice *vibe coding* to quickly turn my idea
   </a>
 </p>
 
+<br>
+
+---
+
+<h3 align="center">🎯 Discipline</h3>
+
 <p align="center">
   <a href="https://github.com/MayconDIS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayconDIS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

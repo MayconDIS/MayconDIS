@@ -56,6 +56,12 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
   </a>
 </p>
 
+<br>
+
+---
+
+<h3 align="center">🎯 Disciplina</h3>
+
 <p align="center">
   <a href="https://github.com/MayconDIS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayconDIS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
