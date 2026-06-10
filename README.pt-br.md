@@ -38,10 +38,10 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
 <h3 align="center">🛠️ Tecnologias e Contribuições</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite" valign="middle" alt="Habilidades do Maycon" />
-  <img src="assets/sqlserver.svg" width="48" height="48" valign="middle" alt="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=dotnet,git,github,windows,linux,docker" valign="middle" alt="Habilidades do Maycon" />
-  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="36" height="36" valign="middle" alt="Antigravity AI" />
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite" valign="middle" alt="Habilidades do Maycon" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MayconDIS/MayconDIS/main/assets/sqlserver.svg" width="48" height="48" valign="middle" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet,git,github,windows,linux,docker" valign="middle" alt="Habilidades do Maycon" />&nbsp;&nbsp;
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="36" height="36" valign="middle" alt="Antigravity AI" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" valign="middle" alt="Habilidades do Maycon" />
 </div>
 
