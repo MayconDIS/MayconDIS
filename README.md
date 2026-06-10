@@ -39,9 +39,11 @@ I am highly dedicated and heavily practice *vibe coding* to quickly turn my idea
 <h3 align="center">🛠️ Languages and Technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite,sqlserver,dotnet,git,github,windows,linux,docker" alt="Maycon's Skills" />
-  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="48" height="48" alt="Antigravity AI" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Maycon's Skills" />
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite" valign="middle" alt="Maycon's Skills" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48" valign="middle" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=dotnet,git,github,windows,linux,docker" valign="middle" alt="Maycon's Skills" />
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="36" height="36" valign="middle" alt="Antigravity AI" />
+  <img src="https://skillicons.dev/icons?i=vscode" valign="middle" alt="Maycon's Skills" />
 </div>
 
 <br>
