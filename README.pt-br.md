@@ -10,6 +10,8 @@ Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas e atualm
 
 Tenho grande interesse em engenharia de software, modelagem de dados, metodologias ágeis e ecossistema de código aberto. Como entusiasta de Inteligência Artificial, Visão Computacional e Ciência de Dados, meu objetivo é aplicar minhas habilidades analíticas e técnicas para resolver problemas complexos e contribuir para projetos inovadores. Olhando para frente, meu objetivo é me especializar fazendo um MBA em Inteligência Artificial e Ciência de Dados Aplicadas aos Negócios.
 
+Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar minhas ideias do papel e colocá-las em prática de forma ágil. Alinhado com a nova era da Inteligência Artificial, meu foco de carreira e estudos está direcionado para me tornar um **Arquiteto de Software**.
+
 <br>
 
 <p align="center">

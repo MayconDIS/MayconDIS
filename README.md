@@ -11,6 +11,8 @@ I am a 4th-semester Systems Analysis and Development student and currently serve
 
 I have a strong interest in software engineering, data modeling, agile methodologies, and the open-source ecosystem. As an enthusiast of Artificial Intelligence, Computer Vision, and Data Science, my goal is to apply my analytical and technical skills to solve complex problems and contribute to innovative projects. Looking ahead, my objective is to specialize by pursuing an MBA in Artificial Intelligence and Data Science Applied to Business.
 
+I am highly dedicated and heavily practice *vibe coding* to quickly turn my ideas into reality and put them into practice. Aligned with the new era of Artificial Intelligence, my career and learning focus is directed toward becoming a **Software Architect**.
+
 <br>
 
 <p align="center">
