@@ -7,7 +7,7 @@
 
 **`Maycon Douglas ┃ IT Student & Aspiring Software Engineer`**
 
-I am a 3rd-semester Systems Analysis and Development student and currently serve as the **Vice-Representative** for my class. I am seeking my first opportunity in the tech industry as a **Software Developer Intern** or **Junior Developer**. My academic projects and studies are deeply focused on programming logic, software design patterns, and clean architecture, applying solid practices in **Python**, **C#**, and **C**, while expanding my knowledge in **Java** and web technologies.
+I am a 4th-semester Systems Analysis and Development student and currently serve as the **Vice-Representative** for my class. I am seeking my first opportunity in the tech industry as a **Software Developer Intern** or **Junior Developer**. My academic projects and studies are deeply focused on programming logic, software design patterns, and clean architecture, applying solid practices in **Python**, **C#**, and **C**, while expanding my knowledge in **Java** and web technologies.
 
 I have a strong interest in software engineering, data modeling, agile methodologies, and the open-source ecosystem. As an enthusiast of Artificial Intelligence, Computer Vision, and Data Science, my goal is to apply my analytical and technical skills to solve complex problems and contribute to innovative projects. Looking ahead, my objective is to specialize by pursuing an MBA in Artificial Intelligence and Data Science Applied to Business.
 

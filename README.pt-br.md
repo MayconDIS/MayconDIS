@@ -6,7 +6,7 @@
 
 **`Maycon Douglas ┃ Estudante de TI & Aspirante a Engenheiro de Software`**
 
-Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas e atualmente atuo como **Vice-Representante** da minha turma. Busco minha primeira oportunidade na área de tecnologia como **Estagiário de Desenvolvimento de Software** ou **Desenvolvedor Júnior**. Meus projetos acadêmicos e estudos são profundamente focados em lógica de programação, padrões de projeto de software e arquitetura limpa, aplicando práticas sólidas em **Python**, **C#** e **C**, enquanto expando meus conhecimentos em **Java** e tecnologias web.
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas e atualmente atuo como **Vice-Representante** da minha turma. Busco minha primeira oportunidade na área de tecnologia como **Estagiário de Desenvolvimento de Software** ou **Desenvolvedor Júnior**. Meus projetos acadêmicos e estudos são profundamente focados em lógica de programação, padrões de projeto de software e arquitetura limpa, aplicando práticas sólidas em **Python**, **C#** e **C**, enquanto expando meus conhecimentos em **Java** e tecnologias web.
 
 Tenho grande interesse em engenharia de software, modelagem de dados, metodologias ágeis e ecossistema de código aberto. Como entusiasta de Inteligência Artificial, Visão Computacional e Ciência de Dados, meu objetivo é aplicar minhas habilidades analíticas e técnicas para resolver problemas complexos e contribuir para projetos inovadores. Olhando para frente, meu objetivo é me especializar fazendo um MBA em Inteligência Artificial e Ciência de Dados Aplicadas aos Negócios.
 
