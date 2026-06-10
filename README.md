@@ -1,10 +1,9 @@
 # Hi there, I'm Maycon Douglas! 👋
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&width=500&lines=Welcome+to+my+profile!;Systems+Analysis+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <strong>🌐 Read in: English | <a href="README.pt-br.md">Português</a></strong>
+</p>
+
 
 **`Maycon Douglas ┃ IT Student & Aspiring Software Engineer`**
 
