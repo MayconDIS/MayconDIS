@@ -35,7 +35,7 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
 
 ---
 
-<h3 align="center">🛠️ Linguagens e Tecnologias</h3>
+<h3 align="center">🛠️ Tecnologias e Contribuições</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite" valign="middle" alt="Habilidades do Maycon" />
@@ -47,10 +47,6 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
 
 <br>
 
----
-
-<h3 align="center">📊 Estatísticas do GitHub</h3>
-
 <p align="center">
   <a href="https://github.com/MayconDIS">
     <img src="https://github-readme-stats.vercel.app/api?username=MayconDIS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Maycon" height="180" />
@@ -59,13 +55,6 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&hide_border=true&layout=compact" alt="Linguagens mais usadas pelo Maycon" height="180" />
   </a>
 </p>
-
-
-<br>
-
----
-
-<h3 align="center">🎯 Disciplina e Contribuições</h3>
 
 <p align="center">
   <a href="https://github.com/MayconDIS">

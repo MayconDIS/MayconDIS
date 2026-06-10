@@ -36,7 +36,7 @@ I am highly dedicated and heavily practice *vibe coding* to quickly turn my idea
 
 ---
 
-<h3 align="center">🛠️ Languages and Technologies</h3>
+<h3 align="center">🛠️ Technologies and Contributions</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite" valign="middle" alt="Maycon's Skills" />
@@ -48,10 +48,6 @@ I am highly dedicated and heavily practice *vibe coding* to quickly turn my idea
 
 <br>
 
----
-
-<h3 align="center">📊 GitHub Statistics</h3>
-
 <p align="center">
   <a href="https://github.com/MayconDIS">
     <img src="https://github-readme-stats.vercel.app/api?username=MayconDIS&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Maycon's GitHub Stats" height="180" />
@@ -60,13 +56,6 @@ I am highly dedicated and heavily practice *vibe coding* to quickly turn my idea
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconDIS&theme=tokyonight&hide_border=true&layout=compact" alt="Maycon's Top Languages" height="180" />
   </a>
 </p>
-
-
-<br>
-
----
-
-<h3 align="center">🎯 Discipline and Contributions</h3>
 
 <p align="center">
   <a href="https://github.com/MayconDIS">
