@@ -38,7 +38,9 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
 <h3 align="center">🛠️ Linguagens e Tecnologias</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,c,java,js,html,css,sqlite,dotnet,git,github,docker,linux,windows,vscode" alt="Habilidades do Maycon" />
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,sqlite,sqlserver,dotnet,git,github,windows,linux,docker" alt="Habilidades do Maycon" />
+  <img src="https://img.shields.io/badge/Antigravity-AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Antigravity AI" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Habilidades do Maycon" />
 </div>
 
 <br>
