@@ -17,6 +17,7 @@ I have a strong interest in software engineering, data modeling, agile methodolo
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MayconDIS&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/MayconDIS?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/MayconDIS?style=for-the-badge&logo=github&label=Followers&labelColor=1155ba&color=236ad3&logoColor=white" /></a>
+  <a href="https://github.com/MayconDIS?tab=repositories&sort=stargazers"><img alt="Total stars" src="https://img.shields.io/github/stars/MayconDIS?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=FFA500&color=FFD700" /></a>
   <a href="https://www.linkedin.com/in/maycondis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mayconinveste@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
