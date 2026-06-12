@@ -1,7 +1,7 @@
 # Hi there, I'm Maycon Douglas! 👋
 
 <p align="center">
-  <strong>🌐 Read in: <a href="README.md">Português</a> | English</strong>
+  <strong>🌐 Read in: <a href="README.md">Português</a></strong>
 </p>
 
 
