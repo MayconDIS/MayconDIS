@@ -35,7 +35,7 @@ Sou muito esforçado e utilizo bastante a prática de *vibe coding* para tirar m
 
 ---
 
-<h3 align="center">🛠️ Tecnologias e Contribuições</h3>
+<h3 align="center">🛠️ Contribuições</h3>
 
 
 
