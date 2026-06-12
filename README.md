@@ -1,7 +1,7 @@
 # Olá, eu sou o Maycon Douglas! 👋
 
 <p align="center">
-  <strong>🌐 Ler em: Inglês | <a href="README.en.md">English</a></strong>
+  <strong>🌐 Ler em: <a href="README.en.md">English</a></strong>
 </p>
 
 **`Maycon Douglas ┃ Estudante de TI & Aspirante a Engenheiro de Software`**
