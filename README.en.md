@@ -36,7 +36,7 @@ I am highly dedicated and heavily practice *vibe coding* to quickly turn my idea
 
 ---
 
-<h3 align="center">🛠️ Technologies and Contributions</h3>
+<h3 align="center">🛠️ Contributions</h3>
 
 
 
