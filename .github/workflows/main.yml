@@ -21,11 +21,16 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - name: Gerar github-contribution-grid-snake.svg
+      - name: Gerar os SVGs da cobrinha
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Dois jogos de nomes: github-snake.* e o nome legado
+          # github-contribution-grid-snake.*, porque geradores de perfil
+          # (ex.: GitAscii) procuram por uma convencao ou pela outra.
           outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
