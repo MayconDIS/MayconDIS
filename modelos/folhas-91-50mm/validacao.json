@@ -1,0 +1,58 @@
+{
+  "units": "mm",
+  "source": "Manual contour reconstruction from a perspective image; not a scan or exact CAD recovery.",
+  "dimensions_mm": [
+    91.5,
+    76.88386535644531,
+    3.0
+  ],
+  "components": 4,
+  "watertight": true,
+  "winding_consistent": true,
+  "pieces": [
+    {
+      "name": "01_folha_esquerda",
+      "watertight": true,
+      "faces": 16112,
+      "volume_mm3": 5335.6272224089835,
+      "dimensions_mm": [
+        60.52890585015344,
+        71.2230356308647,
+        3.0
+      ]
+    },
+    {
+      "name": "02_ramo_central",
+      "watertight": true,
+      "faces": 13012,
+      "volume_mm3": 3201.087804796561,
+      "dimensions_mm": [
+        48.50724825772333,
+        63.519845093556754,
+        3.0
+      ]
+    },
+    {
+      "name": "03_folha_direita",
+      "watertight": true,
+      "faces": 7520,
+      "volume_mm3": 1628.172256914483,
+      "dimensions_mm": [
+        23.30537018681089,
+        46.08758076564579,
+        3.0
+      ]
+    },
+    {
+      "name": "04_folha_inferior",
+      "watertight": true,
+      "faces": 2544,
+      "volume_mm3": 471.8232376550997,
+      "dimensions_mm": [
+        19.217351372875257,
+        23.186557483887245,
+        3.0
+      ]
+    }
+  ]
+}
