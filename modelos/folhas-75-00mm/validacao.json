@@ -1,0 +1,38 @@
+{
+  "units": "mm",
+  "source": "Manual contour approximation of the second perspective image. Smooth flat extrusion.",
+  "dimensions_mm": [
+    75.0,
+    65.63995361328125,
+    3.0
+  ],
+  "components": 2,
+  "watertight": true,
+  "winding_consistent": true,
+  "pieces": [
+    {
+      "name": "01_folha_grande",
+      "watertight": true,
+      "holes": 4,
+      "faces": 29228,
+      "volume_mm3": 5318.717358933861,
+      "dimensions_mm": [
+        59.612020503527255,
+        65.63995695411441,
+        3.0
+      ]
+    },
+    {
+      "name": "02_folha_pequena",
+      "watertight": true,
+      "holes": 3,
+      "faces": 12596,
+      "volume_mm3": 1633.4202814411535,
+      "dimensions_mm": [
+        29.132976669519977,
+        41.794669994158234,
+        3.0
+      ]
+    }
+  ]
+}
