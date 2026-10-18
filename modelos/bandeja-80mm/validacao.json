@@ -1,0 +1,25 @@
+{
+  "units": "mm",
+  "type": "bandeja",
+  "dimensions_mm": [
+    80.0,
+    25.0,
+    10.0
+  ],
+  "wall_thickness_mm": 3.0,
+  "base_thickness_mm": 2.0,
+  "nominal_inner_dimensions_mm": [
+    74.0,
+    19.0
+  ],
+  "cavity_depth_mm": 8.0,
+  "outer_corner_radius_mm": 4.0,
+  "edge_rounding_radius_mm": 0.6,
+  "watertight": true,
+  "winding_consistent": true,
+  "components": 1,
+  "euler_characteristic": 2,
+  "triangles": 17248,
+  "volume_mm3": 8589.579060989956,
+  "source": "Parametric approximation; user specified length 80 mm and base 2 mm. Other dimensions estimated."
+}
